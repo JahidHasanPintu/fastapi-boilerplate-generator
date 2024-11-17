@@ -78,7 +78,7 @@ You can use either the **Bash script** or the **Python script** to generate the 
 
 1. Save the `create_fastapi_structure.py` script to your local system.
 
-   - Example: Download it or copy the code into a file named `create_fastapi_structure.py`Run the script using Python
+   - Example: Download it or copy the code into a file named `create_fastapi_structure.py`
 
 2. Run the script using Python :
 
