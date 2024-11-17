@@ -53,3 +53,65 @@ You can use either the **Bash script** or the **Python script** to generate the 
    ```bash
    chmod +x create_fastapi_project.sh
    ```
+
+3. Run the script::
+
+   ```bash
+   ./create_fastapi_project.sh
+   ```
+
+4. Enter your desired project name when prompted. For example:
+
+   ```bash
+   Enter your project name: my_fastapi_project
+   ```
+
+5. Navigate to the project folder:
+
+   ```bash
+   cd my_fastapi_project
+   ```
+
+### **2. Using the Python Script**
+
+#### **Steps**:
+
+1. Save the `create_fastapi_structure.py` script to your local system.
+
+   - Example: Download it or copy the code into a file named `create_fastapi_structure.py`Run the script using Python
+
+2. Run the script using Python :
+
+   ```bash
+   python create_fastapi_structure.py
+   ```
+
+3. Enter your desired project name when prompted. For example:
+
+   ```bash
+   Enter your project name: my_fastapi_project
+   ```
+
+4. Navigate to the project folder:
+
+   ```bash
+   cd my_fastapi_project
+   ```
+
+## **Contributing**
+
+Feel free to contribute by opening issues, submitting bug reports, or creating pull requests. Contributions are always welcome!
+
+---
+
+## **License**
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this script.
+
+---
+
+## **Feedback**
+
+If you find this repository helpful or encounter any issues, please feel free to reach out or leave a star ⭐ on the GitHub repository.
+
+---
